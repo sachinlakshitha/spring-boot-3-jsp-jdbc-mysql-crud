@@ -1,0 +1,34 @@
+<!-- Main Footer -->
+<footer class="main-footer">
+    <!-- To the right -->
+    <div class="float-right d-none d-sm-inline">
+
+    </div>
+    <!-- Default to the left -->
+    <strong>Copyright &copy; 2023 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+</footer>
+
+</div>
+<!-- ./wrapper -->
+
+<!-- REQUIRED SCRIPTS -->
+
+<!-- jQuery -->
+<script src="/resources/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="/resources/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- jQuery Validation -->
+<script src="/resources/plugins/jquery-validation/jquery.validate.min.js"></script>
+<script src="/resources/plugins/jquery-validation/additional-methods.min.js"></script>
+<!-- AdminLTE App -->
+<script src="/resources/dist/js/adminlte.min.js"></script>
+<!-- Serialize JSON -->
+<script src="/resources/dist/js/jquery.serializejson.js"></script>
+<!-- DataTables  & Plugins -->
+<script src="/resources/plugins/datatables/jquery.dataTables.min.js"></script>
+<script src="/resources/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+<script src="/resources/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+<script src="/resources/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+<script src="/resources/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+<script src="/resources/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+<script src="/resources/plugins/sweetalert2/sweetalert2.all.min.js"></script>
